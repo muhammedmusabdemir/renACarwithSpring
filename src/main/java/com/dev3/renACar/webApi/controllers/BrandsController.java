@@ -34,3 +34,5 @@ public class BrandsController {
         this.brandService.add(createBrandRequest);
     }
 }
+
+//bugun de olmedik
